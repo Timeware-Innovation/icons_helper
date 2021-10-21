@@ -1,3 +1,7 @@
+## [1.2.0-nullsafety.2] - `font_awesome_flutter` 9.1.0
+
+* Blocked `font_awesome_flutter` to version 9.1.0
+
 ## [1.2.0-nullsafety.1] - Null-safety
 
 * Migrating to null-safety - will stay as pre-release until dependent libs are non-prerelease status.
